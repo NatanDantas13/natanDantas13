@@ -1,16 +1,15 @@
 # 👋 Olá, eu sou Natan!
 
-Sou desenvolvedor apaixonado por tecnologia, aprendizado contínuo e criação de soluções que fazem diferença.  
-Atualmente estou focado em **Node.js, Express e APIs REST**, mas também gosto de explorar **JavaScript moderno, TypeScript e bancos de dados**.
+Sou Programador Full Stack desde 2024. Apesar de estar no início da minha trajetória, já tive a oportunidade de participar de projetos relevantes e importantes para minha carreira. Entre eles, destaco o desenvolvimento de uma plataforma educacional, minha atuação no setor de software financeiro/pacs na empresa onde trabalho atualmente**.
 
 ---
 
 ## 🚀 Tecnologias que uso no dia a dia
-- **Linguagens:** JavaScript, TypeScript, Python  
-- **Backend:** Node.js, Express, NestJS  
-- **Frontend:** React, Angular  
-- **Banco de Dados:** MongoDB, PostgreSQL, MySQL  
-- **Ferramentas:** Git, Docker, VS Code  
+- **Linguagens:** JavaScript, TypeScript  
+- **Backend:** Node.js, Express, NestJS 
+- **Frontend:** React, Angular
+- **Banco de Dados:** MongoDB, MySQL, Redis
+- **Ferramentas:** Git, Docker, VS Code
 
 ---
 
@@ -86,17 +85,6 @@ Atualmente estou focado em **Node.js, Express e APIs REST**, mas também gosto d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -115,9 +103,9 @@ Atualmente estou focado em **Node.js, Express e APIs REST**, mas também gosto d
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/seuusuario)  
-- 📧 Email: seuemail@exemplo.com  
-- 🌍 [Portfólio](https://seusite.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/natandantasdev/)  
+- 📧 Email: natan.rsd13@gmail.com  
+- 🌍 [Portfólio](https://seusite.com) Em desenvolvimento  
 
 ---
 
