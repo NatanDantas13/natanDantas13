@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou Natan!
 
-<!--
-**NatanDantas13/natanDantas13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor apaixonado por tecnologia, aprendizado contínuo e criação de soluções que fazem diferença.  
+Atualmente estou focado em **Node.js, Express e APIs REST**, mas também gosto de explorar **JavaScript moderno, TypeScript e bancos de dados**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que uso no dia a dia
+- **Linguagens:** JavaScript, TypeScript, Python  
+- **Backend:** Node.js, Express, NestJS  
+- **Frontend:** React, Angular  
+- **Banco de Dados:** MongoDB, PostgreSQL, MySQL  
+- **Ferramentas:** Git, Docker, VS Code  
+
+---
+
+## 📂 Projetos em destaque
+- [API-Express](https://github.com/seuusuario/API-EXPRESS) → Uma API modular com controllers e routers bem organizados.  
+- [Meu Portfólio](https://github.com/seuusuario/portfolio) → Site pessoal mostrando meus projetos e habilidades.  
+
+---
+
+## 📊 Estatísticas do GitHub
+![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+
+---
+
+## 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/seuusuario)  
+- 📧 Email: seuemail@exemplo.com  
+- 🌍 [Portfólio](https://seusite.com)  
+
+---
+
+✨ Sempre aberto a colaborações e novos desafios!
