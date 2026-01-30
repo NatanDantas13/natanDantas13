@@ -67,7 +67,7 @@ Atualmente estou focado em **Node.js, Express e APIs REST**, mas também gosto d
     title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://pt.wikipedia.org/wiki/Angular_%28framework%29" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angular_gradient_logo.png/250px-Angular_gradient_logo.png" 
 />
 <img 
     align="left" 
