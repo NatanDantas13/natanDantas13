@@ -85,6 +85,9 @@ Sou Programador Full Stack desde 2024. Apesar de estar no início da minha traje
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br/>
+<br/>
+
 ---
 
 ## 📊 Estatísticas do GitHub
