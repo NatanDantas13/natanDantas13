@@ -14,8 +14,10 @@ Sou Programador Full Stack desde 2024. Apesar de estar no início da minha traje
 ---
 
 ## 📂 Projetos em destaque
-- [API-Express](https://github.com/seuusuario/API-EXPRESS) → Uma API modular com controllers e routers bem organizados.  
-- [Meu Portfólio](https://github.com/seuusuario/portfolio) → Site pessoal mostrando meus projetos e habilidades.  
+- [PROJETO - ESTOQUE] 
+    - [API](https://github.com/NatanDantas13/ESTOQUE-API) 
+    - [FRONT](https://github.com/NatanDantas13/ESTOQUE-FRONT) 
+  
 
 ---
 ## 🤖 Linguagens e Tecnologias
